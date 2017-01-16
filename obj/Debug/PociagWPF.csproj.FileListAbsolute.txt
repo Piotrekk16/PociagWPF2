@@ -1,0 +1,13 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\bin\Debug\PociagWPF.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\bin\Debug\PociagWPF.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\bin\Debug\PociagWPF.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\MainWindow.baml
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\MainWindow.g.cs
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\App.g.cs
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF_MarkupCompile.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.g.resources
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.Properties.Resources.resources
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.csproj.GenerateResource.Cache
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\PociagWPF\PociagWPF\obj\Debug\PociagWPF.csprojResolveAssemblyReference.cache
